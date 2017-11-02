@@ -1,6 +1,8 @@
 # Material-Colors-in-Excel-VBA
 Allows to use material colors in MS Excel VBA projects
 
+![Material Colors](https://github.com/inDeev/Material-Colors-in-Excel-VBA/blob/master/VBAMaterialColorPaletteBG.png)
+
 Color Names:
 Red, Pink, Purple, Deep Purple, Indigo, Blue, Light Blue, Cyan, Teal, Green,
 Light Green, Lime, Yellow, Amber, Orange, Deep Orange, Brown, Grey, Blue Grey
